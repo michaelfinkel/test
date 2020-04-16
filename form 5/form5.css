@@ -1,0 +1,55 @@
+body{
+    max-width: 1000px;
+    margin: 100px auto;
+    background: rgb(115, 7, 198);
+}
+fieldset{
+    height: 600px;
+    border-radius: 10px;
+    background: white;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.right{
+    width: 50%;
+    float: right;
+}
+img{
+    padding: 40px;
+}
+h1{
+    padding-top: 80px;
+}
+.fill{
+    width: 350px;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px solid rgba(219, 219, 219, 0.929);
+    background-color: rgba(219, 219, 219, 0.929);
+    color: gray;
+    padding-left: 20px;
+    font-size: 12pt;
+}
+.bigfill{
+    width: 350px;
+    height: 150px;
+    border-radius: 30px;
+    border: 1px solid rgba(219, 219, 219, 0.929);
+    background-color: rgba(219, 219, 219, 0.929);
+    color: gray;
+    padding-left: 20px;
+    font-size: 12pt;
+}
+.send{
+    width: 375px;
+    height: 40px;
+    border-radius: 30px;
+    border: 1px solid rgb(115, 7, 198);
+    background-color: rgb(115, 7, 198);
+    color: white;
+    padding-left: 20px;
+    font-size: 12pt;
+    margin-top: 15px;
+}
